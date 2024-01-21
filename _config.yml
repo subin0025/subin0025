@@ -108,7 +108,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developer"
   location         : "Busan, South Korea"
-  email            : "subin0025@naver.coom"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

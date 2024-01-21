@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Subin's Note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "My Every Memories"
+name                     : "subinnote"
 description              : ""
 url                      : https://subin0025.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developer"
   location         : "Busan, South Korea"
-  email            :
+  email            : "subin0025@naver.coom"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
